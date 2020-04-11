@@ -1,0 +1,26 @@
+{
+  "name": "dynamodb-reservedwords",
+  "version": "1.0.0",
+  "description": "Javascript list of reserved attribute words for dynamodb to use when building expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonuwbadger/dynamodb-reservedwords.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "aws"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Jason Christensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonuwbadger/dynamodb-reservedwords/issues"
+  },
+  "homepage": "https://github.com/jasonuwbadger/dynamodb-reservedwords#readme"
+}
