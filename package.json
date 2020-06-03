@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonuwbadger/dynamodb-reservedwords.git"
+    "url": "git+https://github.com/JasonCraftsCode/dynamodb-reservedwords.git"
   },
   "keywords": [
     "dynamodb",
@@ -20,7 +20,7 @@
   "author": "Jason Christensen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasonuwbadger/dynamodb-reservedwords/issues"
+    "url": "https://github.com/JasonCraftsCode/dynamodb-reservedwords/issues"
   },
-  "homepage": "https://github.com/jasonuwbadger/dynamodb-reservedwords#readme"
+  "homepage": "https://github.com/JasonCraftsCode/dynamodb-reservedwords#readme"
 }
